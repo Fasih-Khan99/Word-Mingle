@@ -19,7 +19,7 @@ Word-Mingle is a powerful text-processing application designed to enhance user i
 
 Contributions & feedback are welcome! 🚀
 
-License
+## 🔹 Licence 
 This project is licensed under the MIT License. Feel free to use and modify it.
 
 
